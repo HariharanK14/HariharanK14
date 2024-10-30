@@ -5,12 +5,12 @@ Let's get started
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...creating a webpage 
-- 🌱 I’m currently learning ...full stack development
-- 👯 I’m looking to collaborate on ...Vue.js
+- 🔭 I’m currently working on ... AI based projects 
+- 🌱 I’m currently learning ... Different kinds of Machine Learning Models
+- 👯 I’m looking to collaborate on ...Vision Transformer(ViT)
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ...coding
-- 📫 How to reach me: ...hk1122@srmist.edu.in
+- 📫 How to reach me: ...hharankarthikeyan@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Not Fully Completed
--->
+
